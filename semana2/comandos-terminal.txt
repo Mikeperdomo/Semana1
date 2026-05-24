@@ -1,0 +1,14 @@
+comandos utilizados
+
+cd ~
+cd programadores-para-la-paz
+mkdir semana2
+ls 
+pwd
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+nano
+git add 
+git commit 
+git push
